@@ -1,0 +1,38 @@
+_repo: Spare-Hours_27153
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brown, John
+    birthdate: 1810
+    deathdate: 1882
+    gutenberg_agent_id: '1792'
+    url: http://www.gutenberg.org/2009/agents/1792
+    wikipedia: http://en.wikipedia.org/wiki/John_Brown_%28physician%29
+description: 1st ser. Rab and his friends and other papers.--2d ser. John Leech, Marjorie
+  Fleming and other papers.--3d ser. Locke and Sydenham and other papers.
+gutenberg_issued: '2008-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27153'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art criticism'
+- !lcc 'PR'
+- !lcsh 'Authors, English -- 19th century -- Biography'
+- !lcsh 'English essays'
+- !lcsh 'Dogs -- Folklore'
+- !lcsh 'Brown, John, 1810-1882 -- Childhood and youth'
+tableOfContents: Rab and his friends -- "With brains, sir" -- The mystery of Black
+  and Tan -- Her last half-crown -- Our dogs -- Queen Mary's child-garden -- Presence
+  of mind and happy guessing -- My father's memoir -- Mystifications -- "Oh, I'm wat,
+  wat!" -- Arthur H. Hallam -- Education through the senses -- Vaughan's poems --
+  Dr. Chalmers -- Dr. George Wilson -- St. Paul's thorn in the flesh -- The Black
+  Dwarf's bones -- Notes on art.
+title: Spare Hours
+url: http://www.gutenberg.org/ebooks/27153
